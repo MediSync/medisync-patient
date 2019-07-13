@@ -367,7 +367,7 @@ function table_view_history(id) {
             $("#loader").removeClass("is-active");
 
         } else {
-            toastr["warning"]("Algo sucedio, contactese con soporte", "Atención");
+            toastr["warning"]("Algo sucedió, contáctese con soporte", "Atención");
         }
     }).catch(function (error) {
         console.log("Error getting document:", error);

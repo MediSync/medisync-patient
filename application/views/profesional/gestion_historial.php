@@ -48,11 +48,11 @@
 								<td id="email_hist" style="width: 50%;"></td>
 							</tr>
 							<tr>
-								<td style="width: 10%;"><strong>Telefono</strong></td>
+								<td style="width: 10%;"><strong>Teléfono</strong></td>
 								<td id="phone_hist" style="width: 50%;"></td>
 							</tr>
 							<tr>
-								<td style="width: 20%;"><strong>Direccion</strong></td>
+								<td style="width: 20%;"><strong>Dirección</strong></td>
 								<td id="address_hist" style="width: 50%;"></td>
 							</tr>
 						</tbody>
@@ -63,7 +63,7 @@
 	</div>
 	<div class="card shadow mb-4">
 		<div class="card-header py-3 d-flex flex-row align-items-center justify-content-between">
-			<h6 class="m-0 font-weight-bold text-primary">Evolucion</h6>
+			<h6 class="m-0 font-weight-bold text-primary">Evolución</h6>
 		</div>
 		<div class="card-body">
 			<div class="chart-area">
